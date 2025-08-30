@@ -1,6 +1,6 @@
-# AI Prompt Marketplace
+# Crypto Price Tracking 
 
-A modern Next.js application for buying and selling AI prompts on the blockchain, featuring real-time cryptocurrency price tracking with interactive charts.
+A modern Next.js application for chfeaturing real-time cryptocurrency price tracking with interactive charts.
 
 ## 🚀 Features
 

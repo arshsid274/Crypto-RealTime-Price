@@ -4,7 +4,7 @@ A modern Next.js application for buying and selling AI prompts on the blockchain
 
 ## 🚀 Features
 
-- **AI Prompt Marketplace**: Browse, buy, and sell AI prompts
+- **Cryto Price**: Browse
 - **Real-time Crypto Tracking**: Live cryptocurrency price monitoring with interactive charts
 - **Modern UI**: Built with Next.js 15, React 19, and Tailwind CSS
 - **Responsive Design**: Mobile-first approach with shadcn/ui components

@@ -6,8 +6,8 @@ import type React from "react" // Import React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AI Prompt Marketplace",
-  description: "Buy and sell AI prompts securely on the blockchain",
+  title: "Real Time Cryto Price TRACKER",
+  description: "Check Real Time Cryto Price in USD AND INR ",
     generator: 'v0.dev'
 }
 
